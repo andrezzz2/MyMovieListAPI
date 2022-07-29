@@ -1,1 +1,1 @@
-Projeto feito com node.js
+Projeto feito com Node.js para testar MongoDB
